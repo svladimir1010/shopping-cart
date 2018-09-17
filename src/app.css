@@ -1,0 +1,15 @@
+body {
+	margin-top: 20px;
+}
+.menu {
+	margin-bottom: 20px;
+}
+.ui.four.cards {
+	margin-left: 0em;
+    margin-top: 20px;
+    width: 99.999%;
+    color: red;
+    font-weight: bolder;
+	font-size: 18px;
+	font-style: italic;
+}
