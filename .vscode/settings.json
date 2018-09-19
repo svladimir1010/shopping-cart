@@ -1,0 +1,33 @@
+{
+    "workbench.view.alwaysShowHeaderActions": true,
+    "beautify.options": {},
+    "beautify.language": {
+        "js": {
+            "type": [
+                "javascript",
+                "json",
+                "jsonc"
+            ],
+            "jsx": {
+                "type": [
+                    "jsx"
+                ]
+            },
+            "filename": [
+                ".jshintrc",
+                ".jsbeautifyrc"
+            ]
+        },
+        "css": [
+            "css",
+            "scss"
+        ],
+        "html": [
+            "htm",
+            "html"
+        ]
+    },
+    "beautify.tabSize": null,
+    "workbench.fontAliasing": "auto",
+    "markdown.preview.fontSize": 12
+}
